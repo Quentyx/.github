@@ -8,6 +8,7 @@ Certains moteurs sont en service chez nous, d’autres sont en construction.
 
 | Moteur | Rôle |
 |---|---|
+| **[Factur-X](https://github.com/Quentyx/quentyx-facturx)** | Factures électroniques françaises (EN 16931, PDF/A-3) : produire, lire, valider, serveur MCP, envoi par une plateforme agréée. **Public.** |
 | **Switch** | Une seule porte pour tout ce qui sort : intelligence artificielle, courriel, SMS, appels, publication. |
 | **RCO** | Relation client observée : la relation est constatée, jamais saisie. |
 | **Calendrier** | Agendas partagés et prise de rendez-vous. |
@@ -19,7 +20,7 @@ Certains moteurs sont en service chez nous, d’autres sont en construction.
 
 Ils sont écrits en Node.js, pour la plupart sans aucune dépendance externe.
 
-**Les dépôts de cette organisation sont privés.** Aucun code n’est publié sous licence libre. Tous droits réservés.
+**Un moteur est public : [quentyx-facturx](https://github.com/Quentyx/quentyx-facturx)**, sous LGPL-3.0, avec un palier Pro sous licence commerciale ([npm](https://www.npmjs.com/package/quentyx-facturx)). Les autres dépôts de cette organisation sont privés, tous droits réservés.
 
 **Contact :** contact@quentyx.fr
 
@@ -35,6 +36,7 @@ Some engines are in service with us, others are under construction.
 
 | Engine | Role |
 |---|---|
+| **[Factur-X](https://github.com/Quentyx/quentyx-facturx)** | French e-invoices (EN 16931, PDF/A-3): produce, read, validate, MCP server, sending through a certified platform. **Public.** |
 | **Switch** | A single gateway for everything that goes out: artificial intelligence, email, SMS, calls, publishing. |
 | **RCO** | Observed customer relationship: the relationship is observed, never typed in. |
 | **Calendar** | Shared calendars and appointment booking. |
@@ -46,6 +48,6 @@ Some engines are in service with us, others are under construction.
 
 They are written in Node.js, most of them with no external dependency at all.
 
-**The repositories of this organization are private.** No code is published under an open source licence. All rights reserved.
+**One engine is public: [quentyx-facturx](https://github.com/Quentyx/quentyx-facturx)**, under the LGPL-3.0, with a Pro tier under a commercial licence ([npm](https://www.npmjs.com/package/quentyx-facturx)). The other repositories of this organization are private, all rights reserved.
 
 **Contact:** contact@quentyx.fr
